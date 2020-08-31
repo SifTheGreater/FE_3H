@@ -1,0 +1,1461 @@
+<!DOCTYPE html>
+<!-- HTML 5 -->
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Fire Emblem, Fire Emblem 3DS, Awakening, Mystery of the Emblem, Radiant Dawn, Shadow Dragon, New Fire Emblem, New Mystery of the Emblem" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@SerenesForest" name="twitter:site"/>
+<meta content="Serenes Forest | A Fire Emblem Resource" name="twitter:title"/>
+<meta content="A Fire Emblem fan site since 1st February 2005. This site was created to provide accurate and reliable information about the Fire Emblem series." name="twitter:description"/>
+<meta content="@Jyosua" name="twitter:creator"/>
+<meta content="http://serenesforest.net/wp-content/uploads/2014/08/Serenes-Forest.png" name="twitter:image:src"/>
+<meta content="serenesforest.net" name="twitter:domain"/>
+<link href="https://serenesforest.net/xmlrpc.php" rel="pingback"/>
+<title>Tea Party - Serenes Forest</title>
+<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="index, follow" name="robots">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot">
+<link href="https://serenesforest.net/three-houses/monastery/tea-party/" rel="canonical"/>
+<meta content="en_US" property="og:locale">
+<meta content="article" property="og:type">
+<meta content="Tea Party - Serenes Forest" property="og:title">
+<meta content="This is a mini-game available after clearing the “Tea for Two” quest from Chapter 4 (7th month). While exploring the monastery, when you speak to characters from your own house" property="og:description">
+<meta content="https://serenesforest.net/three-houses/monastery/tea-party/" property="og:url">
+<meta content="Serenes Forest" property="og:site_name"/>
+<meta content="https://www.facebook.com/SerenesForest/" property="article:publisher"/>
+<meta content="2020-02-13T18:36:36+00:00" property="article:modified_time"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://serenesforest.net/#website","url":"https://serenesforest.net/","name":"Serenes Forest","description":"A Fire Emblem Resource","potentialAction":[{"@type":"SearchAction","target":"https://serenesforest.net/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://serenesforest.net/three-houses/monastery/tea-party/#webpage","url":"https://serenesforest.net/three-houses/monastery/tea-party/","name":"Tea Party - Serenes Forest","isPartOf":{"@id":"https://serenesforest.net/#website"},"datePublished":"2019-08-02T17:13:24+00:00","dateModified":"2020-02-13T18:36:36+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://serenesforest.net/three-houses/monastery/tea-party/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://serenesforest.net/feed/" rel="alternate" title="Serenes Forest » Feed" type="application/rss+xml"/>
+<link href="https://serenesforest.net/comments/feed/" rel="alternate" title="Serenes Forest » Comments Feed" type="application/rss+xml"/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script data-cfasync="false" type="text/javascript">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-8088034-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-8088034-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/serenesforest.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://serenesforest.net/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://serenesforest.net/wp-content/themes/serenes-forest-default/style.css?ver=5.4.2" id="zeeStylePro_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Jockey+One&amp;ver=5.4.2" id="themezee_default_font-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://serenesforest.net/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/serenesforest.net","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script src="https://serenesforest.net/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-content/themes/zeeStylePro/includes/js/jquery.cycle.all.min.js?ver=5.4.2" type="text/javascript"></script>
+<link href="https://serenesforest.net/wp-json/" rel="https://api.w.org/"/>
+<link href="https://serenesforest.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://serenesforest.net/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.4.2" name="generator"/>
+<link href="https://serenesforest.net/?p=56202" rel="shortlink"/>
+<link href="https://serenesforest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserenesforest.net%2Fthree-houses%2Fmonastery%2Ftea-party%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://serenesforest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserenesforest.net%2Fthree-houses%2Fmonastery%2Ftea-party%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- <meta name="NextGEN" version="3.3.6" /> -->
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<script type="text/javascript">
+				//<![CDATA[
+					jQuery(document).ready(function($) {
+						$('#nav ul').css({display: 'none'}); // Opera Fix
+						$('#nav li').hover(function(){
+							$(this).find('ul:first').css({visibility: 'visible',display: 'none'}).show(400);
+						},function(){
+							$(this).find('ul:first').css({visibility: 'hidden'});
+						});
+					});
+				//]]>
+				</script><style type="text/css">
+			a, a:link, a:visited, .comment a:link, .comment a:visited, .wp-pagenavi .current, #frontpage_pagination .slide_page h3
+			{
+				color: #507529;
+			}
+			.meta-date a, #commentform #submit, .meta-tags a:link, .meta-tags a:visited, 
+			.more_posts, .more-link, .arh, #slide_panel, #comments h3, #commentform #submit,
+			#image-nav .nav-previous a, #image-nav .nav-next a {
+				background-color: #507529;
+			}
+			#slideshow, #frontpage_pagination {
+				border-top: 2px solid #507529;
+				border-bottom: 5px solid #507529;
+			}
+			.sticky {
+				border-left: 4px solid #507529;
+			}
+			.post-title, .post-title a:link, .post-title a:visited, #respond h3, .bypostauthor .fn {
+				color: #507529;
+			}
+			#header, #footer {
+				background-color: #507529;
+			}
+			#sidebar .widgettitle, #bottombar .widgettitle, #frontpage_widgets .widgettitle, 
+			#searchsubmit, .widget-tabnav li a {
+				background-color: #507529;
+			}
+			#sidebar a:link, #sidebar a:visited, #bottombar a:link, #bottombar a:visited, 
+			#frontpage_widgets a:link, #frontpage_widgets a:visited {
+				color: #507529;
+			}
+		</style><style type="text/css"></style><style type="text/css">
+			#content {
+				float: right;
+			}
+			#sidebar {
+				margin-left: 0;
+				margin-right: 600px;
+			}
+			.sidebar-two {
+				float: left;
+			}
+			.sidebar-bottom {
+				clear: left;
+			}
+		</style><style type="text/css">
+		#custom_header img {
+			margin: 0 5px
+        }
+    </style><style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #b2dab8; background-image: url("https://serenesforest.net/wp-content/uploads/2013/03/sfwall-20-111.jpg"); background-position: center top; background-size: auto; background-repeat: repeat-x; background-attachment: fixed; }
+</style>
+<script src="https://lngtd.com/serenesforest.js" type="text/javascript"></script>
+</meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body class="page-template page-template-template-full page-template-template-full-php page page-id-56202 page-parent page-child parent-pageid-56031 custom-background">
+<div id="wrapper">
+<div id="header">
+<div id="logo">
+</div>
+<div id="navi">
+<ul class="menu" id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-165" id="menu-item-165"><a href="https://serenesforest.net/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183" id="menu-item-183"><a href="https://forums.serenesforest.net/">Forums</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23627" id="menu-item-23627"><a href="https://serenesforest.net/wiki/index.php/Main_Page">Wiki</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-184" id="menu-item-184"><a href="#">Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-185" id="menu-item-185"><a href="#">NES</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166" id="menu-item-166"><a href="https://serenesforest.net/dark-dragon-and-sword-of-light/">Dark Dragon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167" id="menu-item-167"><a href="https://serenesforest.net/gaiden/">Gaiden</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-186" id="menu-item-186"><a href="#">SNES</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168" id="menu-item-168"><a href="https://serenesforest.net/mystery-of-the-emblem/">Mystery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="https://serenesforest.net/genealogy-of-the-holy-war/">Holy War</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170" id="menu-item-170"><a href="https://serenesforest.net/thracia-776/">Thracia 776</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171" id="menu-item-171"><a href="https://serenesforest.net/akaneia-saga/">Akaneia Saga</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-187" id="menu-item-187"><a href="#">GBA</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172" id="menu-item-172"><a href="https://serenesforest.net/binding-blade/">Binding Blade</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173" id="menu-item-173"><a href="https://serenesforest.net/blazing-sword/">Blazing Sword</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174" id="menu-item-174"><a href="https://serenesforest.net/the-sacred-stones/">The Sacred Stones</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34463" id="menu-item-34463"><a href="#">GameCube/Wii</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175" id="menu-item-175"><a href="https://serenesforest.net/path-of-radiance/">Path of Radiance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176" id="menu-item-176"><a href="https://serenesforest.net/radiant-dawn/">Radiant Dawn</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34464" id="menu-item-34464"><a href="#">Nintendo DS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177" id="menu-item-177"><a href="https://serenesforest.net/shadow-dragon/">Shadow Dragon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178" id="menu-item-178"><a href="https://serenesforest.net/light-and-shadow/">New Mystery</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42157" id="menu-item-42157"><a href="#">Nintendo 3DS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179" id="menu-item-179"><a href="https://serenesforest.net/awakening/">Awakening</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25267" id="menu-item-25267"><a href="https://serenesforest.net/fire-emblem-fates/">Fire Emblem Fates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34455" id="menu-item-34455"><a href="https://serenesforest.net/fire-emblem-echoes-shadows-valentia/" title="Fire Emblem Echoes: Shadows of Valentia">Fire Emblem Echoes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-35053" id="menu-item-35053"><a href="https://serenesforest.net/three-houses/">Three Houses</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-188" id="menu-item-188"><a href="#">Spinoff Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32642" id="menu-item-32642"><a href="https://serenesforest.net/wiki/index.php/Tokyo_Mirage_Sessions_%E2%99%AFFE">Tokyo Mirage Sessions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34466" id="menu-item-34466"><a href="https://serenesforest.net/fire-emblem-heroes/">Fire Emblem Heroes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42155" id="menu-item-42155"><a href="https://serenesforest.net/wiki/index.php/Fire_Emblem_Warriors">Fire Emblem Warriors</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42156" id="menu-item-42156"><a href="#">Related Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180" id="menu-item-180"><a href="https://serenesforest.net/tearring-saga/">TearRing Saga</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181" id="menu-item-181"><a href="https://serenesforest.net/berwick-saga/">Berwick Saga</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58145" id="menu-item-58145"><a href="https://serenesforest.net/vestaria-saga-i/" title="Vestaria Saga I: War of the Scions">Vestaria Saga I</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9755" id="menu-item-9755"><a href="#">Media</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9756" id="menu-item-9756"><a href="https://serenesforest.net/gallery/">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14584" id="menu-item-14584"><a href="https://serenesforest.net/music/">Music</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31549" id="menu-item-31549"><a href="https://serenesforest.net/videos/">Videos</a></li>
+</ul>
+</li>
+</ul> </div>
+</div>
+<div class="clear"></div>
+<div id="custom_header">
+</div>
+<div id="headerad" style="text-align: center;">
+<div style="display: table;margin: 0 auto;">
+<div id="serenesforest_H_D_1"></div>
+</div>
+</div>
+<div id="wrap">
+<div class="fullwidth" id="content">
+<div class="post-56202 page type-page status-publish hentry" id="page-56202">
+<h2 class="page-title">Tea Party</h2>
+<br/>
+<div class="breadcrumbs">
+<!-- Breadcrumb NavXT 6.5.0 -->
+<a href="https://serenesforest.net" title="Go to Serenes Forest.">Serenes Forest</a> &gt; <a href="https://serenesforest.net/three-houses/" title="Go to Three Houses.">Three Houses</a> &gt; <a href="https://serenesforest.net/three-houses/monastery/" title="Go to Monastery.">Monastery</a> &gt; Tea Party				</div>
+<br/>
+<div class="entry">
+<p>This is a mini-game available after clearing the “Tea for Two” quest from Chapter 4 (7th month).</p>
+<p>While exploring the monastery, when you speak to characters from your own house or other characters with a C or higher support rank, there will be an option to invite them for a tea party. Inviting a character costs 1 activity point. Also, when the calendar reaches a character’s birthday, you can host a tea party without spending activity points.</p>
+<h4>Characters You Can Invite</h4>
+<p><strong>Note</strong>: Similar to the Owl Feather, every character likes the Hresvelg Blend and Leicester Cortania.</p>
+<table>
+<tbody>
+<tr>
+<th width="25%">Black Eagles</th>
+<th width="25%">Blue Lions</th>
+<th width="25%">Golden Deer</th>
+<th width="25%">Church of Seiros</th>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/edelgard/">Edelgard<br>
+</br></a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dimitri/">Dimitri<br>
+</br></a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/claude/">Claude<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/seteth/">Seteth<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hubert/">Hubert<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dedue/">Dedue<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/lorenz/">Lorenz<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/flayn/">Flayn<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ferdinand/">Ferdinand<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/felix/">Felix<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/raphael/">Raphael<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hanneman/">Hanneman<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/linhardt/">Linhardt<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ashe/">Ashe<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ignatz/">Ignatz<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/manuela/">Manuela<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/caspar/">Caspar<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/sylvain/">Sylvain<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/lysithea/">Lysithea<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/gilbert/">Gilbert<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/bernadetta/">Bernadetta<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/mercedes/">Mercedes<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/marianne/">Marianne<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/alois/">Alois<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dorothea/">Dorothea<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/annette/">Annette<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hilda/">Hilda<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/catherine/">Catherine<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/petra/">Petra<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ingrid/">Ingrid<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/leonie/">Leonie<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/shamir/">Shamir<br/>
+</a></td>
+</tr>
+<tr>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/cyril/">Cyril<br/>
+</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th colspan="4">DLC Exclusive</th>
+</tr>
+<tr>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/jeritza/">Jeritza</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/anna/">Anna</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/yuri/">Yuri</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/balthus/">Balthus</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/constance/">Constance</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hapi/">Hapi</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/rhea/">Rhea</a></td>
+<td>–</td>
+</tr>
+</tbody>
+</table>
+<h4>Tea Party Etiquette</h4>
+<p>If the character accepts the invitation, the tea party will begin immediately. First, you must select a type of tea. You can find tea as random items throughout the monastery or purchase them from the Eastern Merchant in the market (when available). Any tea will suffice, but if you pick a tea they like, it’ll make things easier.</p>
+<p>Next, you’ll have three chances to “talk” to your partner. Each time you talk, there will be three topics to choose from and a 15 second timer. At least one of these topics will be one they’re interested in. If you choose the correct topic, you will gain support points. Meanwhile, if you choose wrong, you won’t gain (or lose) anything.</p>
+<p>Furthermore, if you choose correctly three times, the character will make one final comment. You’ll have 15 seconds again to pick one of three responses. Choose the correct response and you will proceed to “extra time”. Otherwise, the tea party will come to an end.</p>
+<p>If you offered a tea that the character liked, the conditions are a bit more relaxed:</p>
+<ol>
+<li>You only need to choose <strong>two</strong> correct topics to reach the final comment.</li>
+<li>If you picked all of the correct topics, you are allowed to fail the final comment.</li>
+</ol>
+<h4>Extra Time and Afterwards</h4>
+<p>During “extra time” you can observe your partner up close. They have two different responses (doubled if you share an A support) depending on if you zoom in near their head or near their, er, body. You can also give them a gift, which works the same as normal.</p>
+<p>Once you’re finished, you’ll gain increased support points. You may also gain +1 Charm for the protagonist and/or your partner.</p>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div id="footerad" style="text-align: center;">
+</div>
+</div><!-- end #wrap -->
+</div><!-- end #wrapper -->
+<div id="foot_wrap">
+<div id="footer">
+<p style="text-align: center">Content not otherwise credited copyright 2005-2020 to Aveyn Knight/VincentASM.
+Design is copyright 2013-2020 Joshua ‘Jyosua’ Moore.</p> <div class="credit_link"></div>
+</div>
+<div class="clear"></div>
+</div>
+<!-- ngg_resource_manager_marker --><script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"serenesforest"};
+/* ]]> */
+</script>
+<script src="https://serenesforest.net/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/wp-embed.min.js?ver=5.4.2" type="text/javascript"></script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202034.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'72046347',post:'56202',tz:'-7',srv:'serenesforest.net'} ]);
+	_stq.push([ 'clickTrackerInit', '72046347', '56202' ]);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using apc (SSL caching disabled) 
+Database Caching using apc
+
+Served from: serenesforest.net @ 2020-08-18 11:42:11 by W3 Total Cache
+-->
+<!DOCTYPE html>
+<!-- HTML 5 -->
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Fire Emblem, Fire Emblem 3DS, Awakening, Mystery of the Emblem, Radiant Dawn, Shadow Dragon, New Fire Emblem, New Mystery of the Emblem" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@SerenesForest" name="twitter:site"/>
+<meta content="Serenes Forest | A Fire Emblem Resource" name="twitter:title"/>
+<meta content="A Fire Emblem fan site since 1st February 2005. This site was created to provide accurate and reliable information about the Fire Emblem series." name="twitter:description"/>
+<meta content="@Jyosua" name="twitter:creator"/>
+<meta content="http://serenesforest.net/wp-content/uploads/2014/08/Serenes-Forest.png" name="twitter:image:src"/>
+<meta content="serenesforest.net" name="twitter:domain"/>
+<link href="https://serenesforest.net/xmlrpc.php" rel="pingback"/>
+<title>Tea Party - Serenes Forest</title>
+<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="index, follow" name="robots">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot">
+<link href="https://serenesforest.net/three-houses/monastery/tea-party/" rel="canonical"/>
+<meta content="en_US" property="og:locale">
+<meta content="article" property="og:type">
+<meta content="Tea Party - Serenes Forest" property="og:title">
+<meta content="This is a mini-game available after clearing the “Tea for Two” quest from Chapter 4 (7th month). While exploring the monastery, when you speak to characters from your own house" property="og:description">
+<meta content="https://serenesforest.net/three-houses/monastery/tea-party/" property="og:url">
+<meta content="Serenes Forest" property="og:site_name"/>
+<meta content="https://www.facebook.com/SerenesForest/" property="article:publisher"/>
+<meta content="2020-02-13T18:36:36+00:00" property="article:modified_time"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://serenesforest.net/#website","url":"https://serenesforest.net/","name":"Serenes Forest","description":"A Fire Emblem Resource","potentialAction":[{"@type":"SearchAction","target":"https://serenesforest.net/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://serenesforest.net/three-houses/monastery/tea-party/#webpage","url":"https://serenesforest.net/three-houses/monastery/tea-party/","name":"Tea Party - Serenes Forest","isPartOf":{"@id":"https://serenesforest.net/#website"},"datePublished":"2019-08-02T17:13:24+00:00","dateModified":"2020-02-13T18:36:36+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://serenesforest.net/three-houses/monastery/tea-party/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://serenesforest.net/feed/" rel="alternate" title="Serenes Forest » Feed" type="application/rss+xml"/>
+<link href="https://serenesforest.net/comments/feed/" rel="alternate" title="Serenes Forest » Comments Feed" type="application/rss+xml"/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script data-cfasync="false" type="text/javascript">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-8088034-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-8088034-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/serenesforest.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://serenesforest.net/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://serenesforest.net/wp-content/themes/serenes-forest-default/style.css?ver=5.4.2" id="zeeStylePro_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Jockey+One&amp;ver=5.4.2" id="themezee_default_font-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://serenesforest.net/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/serenesforest.net","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script src="https://serenesforest.net/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-content/themes/zeeStylePro/includes/js/jquery.cycle.all.min.js?ver=5.4.2" type="text/javascript"></script>
+<link href="https://serenesforest.net/wp-json/" rel="https://api.w.org/"/>
+<link href="https://serenesforest.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://serenesforest.net/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.4.2" name="generator"/>
+<link href="https://serenesforest.net/?p=56202" rel="shortlink"/>
+<link href="https://serenesforest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserenesforest.net%2Fthree-houses%2Fmonastery%2Ftea-party%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://serenesforest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserenesforest.net%2Fthree-houses%2Fmonastery%2Ftea-party%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- <meta name="NextGEN" version="3.3.6" /> -->
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<script type="text/javascript">
+				//<![CDATA[
+					jQuery(document).ready(function($) {
+						$('#nav ul').css({display: 'none'}); // Opera Fix
+						$('#nav li').hover(function(){
+							$(this).find('ul:first').css({visibility: 'visible',display: 'none'}).show(400);
+						},function(){
+							$(this).find('ul:first').css({visibility: 'hidden'});
+						});
+					});
+				//]]>
+				</script><style type="text/css">
+			a, a:link, a:visited, .comment a:link, .comment a:visited, .wp-pagenavi .current, #frontpage_pagination .slide_page h3
+			{
+				color: #507529;
+			}
+			.meta-date a, #commentform #submit, .meta-tags a:link, .meta-tags a:visited, 
+			.more_posts, .more-link, .arh, #slide_panel, #comments h3, #commentform #submit,
+			#image-nav .nav-previous a, #image-nav .nav-next a {
+				background-color: #507529;
+			}
+			#slideshow, #frontpage_pagination {
+				border-top: 2px solid #507529;
+				border-bottom: 5px solid #507529;
+			}
+			.sticky {
+				border-left: 4px solid #507529;
+			}
+			.post-title, .post-title a:link, .post-title a:visited, #respond h3, .bypostauthor .fn {
+				color: #507529;
+			}
+			#header, #footer {
+				background-color: #507529;
+			}
+			#sidebar .widgettitle, #bottombar .widgettitle, #frontpage_widgets .widgettitle, 
+			#searchsubmit, .widget-tabnav li a {
+				background-color: #507529;
+			}
+			#sidebar a:link, #sidebar a:visited, #bottombar a:link, #bottombar a:visited, 
+			#frontpage_widgets a:link, #frontpage_widgets a:visited {
+				color: #507529;
+			}
+		</style><style type="text/css"></style><style type="text/css">
+			#content {
+				float: right;
+			}
+			#sidebar {
+				margin-left: 0;
+				margin-right: 600px;
+			}
+			.sidebar-two {
+				float: left;
+			}
+			.sidebar-bottom {
+				clear: left;
+			}
+		</style><style type="text/css">
+		#custom_header img {
+			margin: 0 5px
+        }
+    </style><style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #b2dab8; background-image: url("https://serenesforest.net/wp-content/uploads/2013/03/sfwall-20-111.jpg"); background-position: center top; background-size: auto; background-repeat: repeat-x; background-attachment: fixed; }
+</style>
+<script src="https://lngtd.com/serenesforest.js" type="text/javascript"></script>
+</meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body class="page-template page-template-template-full page-template-template-full-php page page-id-56202 page-parent page-child parent-pageid-56031 custom-background">
+<div id="wrapper">
+<div id="header">
+<div id="logo">
+</div>
+<div id="navi">
+<ul class="menu" id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-165" id="menu-item-165"><a href="https://serenesforest.net/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183" id="menu-item-183"><a href="https://forums.serenesforest.net/">Forums</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23627" id="menu-item-23627"><a href="https://serenesforest.net/wiki/index.php/Main_Page">Wiki</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-184" id="menu-item-184"><a href="#">Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-185" id="menu-item-185"><a href="#">NES</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166" id="menu-item-166"><a href="https://serenesforest.net/dark-dragon-and-sword-of-light/">Dark Dragon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167" id="menu-item-167"><a href="https://serenesforest.net/gaiden/">Gaiden</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-186" id="menu-item-186"><a href="#">SNES</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168" id="menu-item-168"><a href="https://serenesforest.net/mystery-of-the-emblem/">Mystery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="https://serenesforest.net/genealogy-of-the-holy-war/">Holy War</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170" id="menu-item-170"><a href="https://serenesforest.net/thracia-776/">Thracia 776</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171" id="menu-item-171"><a href="https://serenesforest.net/akaneia-saga/">Akaneia Saga</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-187" id="menu-item-187"><a href="#">GBA</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172" id="menu-item-172"><a href="https://serenesforest.net/binding-blade/">Binding Blade</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173" id="menu-item-173"><a href="https://serenesforest.net/blazing-sword/">Blazing Sword</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174" id="menu-item-174"><a href="https://serenesforest.net/the-sacred-stones/">The Sacred Stones</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34463" id="menu-item-34463"><a href="#">GameCube/Wii</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175" id="menu-item-175"><a href="https://serenesforest.net/path-of-radiance/">Path of Radiance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176" id="menu-item-176"><a href="https://serenesforest.net/radiant-dawn/">Radiant Dawn</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34464" id="menu-item-34464"><a href="#">Nintendo DS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177" id="menu-item-177"><a href="https://serenesforest.net/shadow-dragon/">Shadow Dragon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178" id="menu-item-178"><a href="https://serenesforest.net/light-and-shadow/">New Mystery</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42157" id="menu-item-42157"><a href="#">Nintendo 3DS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179" id="menu-item-179"><a href="https://serenesforest.net/awakening/">Awakening</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25267" id="menu-item-25267"><a href="https://serenesforest.net/fire-emblem-fates/">Fire Emblem Fates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34455" id="menu-item-34455"><a href="https://serenesforest.net/fire-emblem-echoes-shadows-valentia/" title="Fire Emblem Echoes: Shadows of Valentia">Fire Emblem Echoes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-35053" id="menu-item-35053"><a href="https://serenesforest.net/three-houses/">Three Houses</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-188" id="menu-item-188"><a href="#">Spinoff Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32642" id="menu-item-32642"><a href="https://serenesforest.net/wiki/index.php/Tokyo_Mirage_Sessions_%E2%99%AFFE">Tokyo Mirage Sessions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34466" id="menu-item-34466"><a href="https://serenesforest.net/fire-emblem-heroes/">Fire Emblem Heroes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42155" id="menu-item-42155"><a href="https://serenesforest.net/wiki/index.php/Fire_Emblem_Warriors">Fire Emblem Warriors</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42156" id="menu-item-42156"><a href="#">Related Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180" id="menu-item-180"><a href="https://serenesforest.net/tearring-saga/">TearRing Saga</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181" id="menu-item-181"><a href="https://serenesforest.net/berwick-saga/">Berwick Saga</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58145" id="menu-item-58145"><a href="https://serenesforest.net/vestaria-saga-i/" title="Vestaria Saga I: War of the Scions">Vestaria Saga I</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9755" id="menu-item-9755"><a href="#">Media</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9756" id="menu-item-9756"><a href="https://serenesforest.net/gallery/">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14584" id="menu-item-14584"><a href="https://serenesforest.net/music/">Music</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31549" id="menu-item-31549"><a href="https://serenesforest.net/videos/">Videos</a></li>
+</ul>
+</li>
+</ul> </div>
+</div>
+<div class="clear"></div>
+<div id="custom_header">
+</div>
+<div id="headerad" style="text-align: center;">
+<div style="display: table;margin: 0 auto;">
+<div id="serenesforest_H_D_1"></div>
+</div>
+</div>
+<div id="wrap">
+<div class="fullwidth" id="content">
+<div class="post-56202 page type-page status-publish hentry" id="page-56202">
+<h2 class="page-title">Tea Party</h2>
+<br/>
+<div class="breadcrumbs">
+<!-- Breadcrumb NavXT 6.5.0 -->
+<a href="https://serenesforest.net" title="Go to Serenes Forest.">Serenes Forest</a> &gt; <a href="https://serenesforest.net/three-houses/" title="Go to Three Houses.">Three Houses</a> &gt; <a href="https://serenesforest.net/three-houses/monastery/" title="Go to Monastery.">Monastery</a> &gt; Tea Party				</div>
+<br/>
+<div class="entry">
+<p>This is a mini-game available after clearing the “Tea for Two” quest from Chapter 4 (7th month).</p>
+<p>While exploring the monastery, when you speak to characters from your own house or other characters with a C or higher support rank, there will be an option to invite them for a tea party. Inviting a character costs 1 activity point. Also, when the calendar reaches a character’s birthday, you can host a tea party without spending activity points.</p>
+<h4>Characters You Can Invite</h4>
+<p><strong>Note</strong>: Similar to the Owl Feather, every character likes the Hresvelg Blend and Leicester Cortania.</p>
+<table>
+<tbody>
+<tr>
+<th width="25%">Black Eagles</th>
+<th width="25%">Blue Lions</th>
+<th width="25%">Golden Deer</th>
+<th width="25%">Church of Seiros</th>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/edelgard/">Edelgard<br>
+</br></a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dimitri/">Dimitri<br>
+</br></a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/claude/">Claude<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/seteth/">Seteth<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hubert/">Hubert<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dedue/">Dedue<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/lorenz/">Lorenz<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/flayn/">Flayn<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ferdinand/">Ferdinand<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/felix/">Felix<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/raphael/">Raphael<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hanneman/">Hanneman<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/linhardt/">Linhardt<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ashe/">Ashe<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ignatz/">Ignatz<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/manuela/">Manuela<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/caspar/">Caspar<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/sylvain/">Sylvain<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/lysithea/">Lysithea<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/gilbert/">Gilbert<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/bernadetta/">Bernadetta<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/mercedes/">Mercedes<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/marianne/">Marianne<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/alois/">Alois<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dorothea/">Dorothea<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/annette/">Annette<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hilda/">Hilda<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/catherine/">Catherine<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/petra/">Petra<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ingrid/">Ingrid<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/leonie/">Leonie<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/shamir/">Shamir<br/>
+</a></td>
+</tr>
+<tr>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/cyril/">Cyril<br/>
+</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th colspan="4">DLC Exclusive</th>
+</tr>
+<tr>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/jeritza/">Jeritza</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/anna/">Anna</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/yuri/">Yuri</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/balthus/">Balthus</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/constance/">Constance</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hapi/">Hapi</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/rhea/">Rhea</a></td>
+<td>–</td>
+</tr>
+</tbody>
+</table>
+<h4>Tea Party Etiquette</h4>
+<p>If the character accepts the invitation, the tea party will begin immediately. First, you must select a type of tea. You can find tea as random items throughout the monastery or purchase them from the Eastern Merchant in the market (when available). Any tea will suffice, but if you pick a tea they like, it’ll make things easier.</p>
+<p>Next, you’ll have three chances to “talk” to your partner. Each time you talk, there will be three topics to choose from and a 15 second timer. At least one of these topics will be one they’re interested in. If you choose the correct topic, you will gain support points. Meanwhile, if you choose wrong, you won’t gain (or lose) anything.</p>
+<p>Furthermore, if you choose correctly three times, the character will make one final comment. You’ll have 15 seconds again to pick one of three responses. Choose the correct response and you will proceed to “extra time”. Otherwise, the tea party will come to an end.</p>
+<p>If you offered a tea that the character liked, the conditions are a bit more relaxed:</p>
+<ol>
+<li>You only need to choose <strong>two</strong> correct topics to reach the final comment.</li>
+<li>If you picked all of the correct topics, you are allowed to fail the final comment.</li>
+</ol>
+<h4>Extra Time and Afterwards</h4>
+<p>During “extra time” you can observe your partner up close. They have two different responses (doubled if you share an A support) depending on if you zoom in near their head or near their, er, body. You can also give them a gift, which works the same as normal.</p>
+<p>Once you’re finished, you’ll gain increased support points. You may also gain +1 Charm for the protagonist and/or your partner.</p>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div id="footerad" style="text-align: center;">
+</div>
+</div><!-- end #wrap -->
+</div><!-- end #wrapper -->
+<div id="foot_wrap">
+<div id="footer">
+<p style="text-align: center">Content not otherwise credited copyright 2005-2020 to Aveyn Knight/VincentASM.
+Design is copyright 2013-2020 Joshua ‘Jyosua’ Moore.</p> <div class="credit_link"></div>
+</div>
+<div class="clear"></div>
+</div>
+<!-- ngg_resource_manager_marker --><script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"serenesforest"};
+/* ]]> */
+</script>
+<script src="https://serenesforest.net/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/wp-embed.min.js?ver=5.4.2" type="text/javascript"></script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202034.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'72046347',post:'56202',tz:'-7',srv:'serenesforest.net'} ]);
+	_stq.push([ 'clickTrackerInit', '72046347', '56202' ]);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using apc (SSL caching disabled) 
+Database Caching using apc
+
+Served from: serenesforest.net @ 2020-08-18 11:43:47 by W3 Total Cache
+-->
+<!DOCTYPE html>
+<!-- HTML 5 -->
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Fire Emblem, Fire Emblem 3DS, Awakening, Mystery of the Emblem, Radiant Dawn, Shadow Dragon, New Fire Emblem, New Mystery of the Emblem" name="keywords"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@SerenesForest" name="twitter:site"/>
+<meta content="Serenes Forest | A Fire Emblem Resource" name="twitter:title"/>
+<meta content="A Fire Emblem fan site since 1st February 2005. This site was created to provide accurate and reliable information about the Fire Emblem series." name="twitter:description"/>
+<meta content="@Jyosua" name="twitter:creator"/>
+<meta content="http://serenesforest.net/wp-content/uploads/2014/08/Serenes-Forest.png" name="twitter:image:src"/>
+<meta content="serenesforest.net" name="twitter:domain"/>
+<link href="https://serenesforest.net/xmlrpc.php" rel="pingback"/>
+<title>Tea Party - Serenes Forest</title>
+<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="index, follow" name="robots">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot">
+<link href="https://serenesforest.net/three-houses/monastery/tea-party/" rel="canonical"/>
+<meta content="en_US" property="og:locale">
+<meta content="article" property="og:type">
+<meta content="Tea Party - Serenes Forest" property="og:title">
+<meta content="This is a mini-game available after clearing the “Tea for Two” quest from Chapter 4 (7th month). While exploring the monastery, when you speak to characters from your own house" property="og:description">
+<meta content="https://serenesforest.net/three-houses/monastery/tea-party/" property="og:url">
+<meta content="Serenes Forest" property="og:site_name"/>
+<meta content="https://www.facebook.com/SerenesForest/" property="article:publisher"/>
+<meta content="2020-02-13T18:36:36+00:00" property="article:modified_time"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://serenesforest.net/#website","url":"https://serenesforest.net/","name":"Serenes Forest","description":"A Fire Emblem Resource","potentialAction":[{"@type":"SearchAction","target":"https://serenesforest.net/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://serenesforest.net/three-houses/monastery/tea-party/#webpage","url":"https://serenesforest.net/three-houses/monastery/tea-party/","name":"Tea Party - Serenes Forest","isPartOf":{"@id":"https://serenesforest.net/#website"},"datePublished":"2019-08-02T17:13:24+00:00","dateModified":"2020-02-13T18:36:36+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://serenesforest.net/three-houses/monastery/tea-party/"]}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://serenesforest.net/feed/" rel="alternate" title="Serenes Forest » Feed" type="application/rss+xml"/>
+<link href="https://serenesforest.net/comments/feed/" rel="alternate" title="Serenes Forest » Comments Feed" type="application/rss+xml"/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script data-cfasync="false" type="text/javascript">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-8088034-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-8088034-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/serenesforest.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://serenesforest.net/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://serenesforest.net/wp-content/themes/serenes-forest-default/style.css?ver=5.4.2" id="zeeStylePro_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Jockey+One&amp;ver=5.4.2" id="themezee_default_font-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://serenesforest.net/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/serenesforest.net","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script src="https://serenesforest.net/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-content/themes/zeeStylePro/includes/js/jquery.cycle.all.min.js?ver=5.4.2" type="text/javascript"></script>
+<link href="https://serenesforest.net/wp-json/" rel="https://api.w.org/"/>
+<link href="https://serenesforest.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://serenesforest.net/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.4.2" name="generator"/>
+<link href="https://serenesforest.net/?p=56202" rel="shortlink"/>
+<link href="https://serenesforest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserenesforest.net%2Fthree-houses%2Fmonastery%2Ftea-party%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://serenesforest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserenesforest.net%2Fthree-houses%2Fmonastery%2Ftea-party%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- <meta name="NextGEN" version="3.3.6" /> -->
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<script type="text/javascript">
+				//<![CDATA[
+					jQuery(document).ready(function($) {
+						$('#nav ul').css({display: 'none'}); // Opera Fix
+						$('#nav li').hover(function(){
+							$(this).find('ul:first').css({visibility: 'visible',display: 'none'}).show(400);
+						},function(){
+							$(this).find('ul:first').css({visibility: 'hidden'});
+						});
+					});
+				//]]>
+				</script><style type="text/css">
+			a, a:link, a:visited, .comment a:link, .comment a:visited, .wp-pagenavi .current, #frontpage_pagination .slide_page h3
+			{
+				color: #507529;
+			}
+			.meta-date a, #commentform #submit, .meta-tags a:link, .meta-tags a:visited, 
+			.more_posts, .more-link, .arh, #slide_panel, #comments h3, #commentform #submit,
+			#image-nav .nav-previous a, #image-nav .nav-next a {
+				background-color: #507529;
+			}
+			#slideshow, #frontpage_pagination {
+				border-top: 2px solid #507529;
+				border-bottom: 5px solid #507529;
+			}
+			.sticky {
+				border-left: 4px solid #507529;
+			}
+			.post-title, .post-title a:link, .post-title a:visited, #respond h3, .bypostauthor .fn {
+				color: #507529;
+			}
+			#header, #footer {
+				background-color: #507529;
+			}
+			#sidebar .widgettitle, #bottombar .widgettitle, #frontpage_widgets .widgettitle, 
+			#searchsubmit, .widget-tabnav li a {
+				background-color: #507529;
+			}
+			#sidebar a:link, #sidebar a:visited, #bottombar a:link, #bottombar a:visited, 
+			#frontpage_widgets a:link, #frontpage_widgets a:visited {
+				color: #507529;
+			}
+		</style><style type="text/css"></style><style type="text/css">
+			#content {
+				float: right;
+			}
+			#sidebar {
+				margin-left: 0;
+				margin-right: 600px;
+			}
+			.sidebar-two {
+				float: left;
+			}
+			.sidebar-bottom {
+				clear: left;
+			}
+		</style><style type="text/css">
+		#custom_header img {
+			margin: 0 5px
+        }
+    </style><style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #b2dab8; background-image: url("https://serenesforest.net/wp-content/uploads/2013/03/sfwall-20-111.jpg"); background-position: center top; background-size: auto; background-repeat: repeat-x; background-attachment: fixed; }
+</style>
+<script src="https://lngtd.com/serenesforest.js" type="text/javascript"></script>
+</meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body class="page-template page-template-template-full page-template-template-full-php page page-id-56202 page-parent page-child parent-pageid-56031 custom-background">
+<div id="wrapper">
+<div id="header">
+<div id="logo">
+</div>
+<div id="navi">
+<ul class="menu" id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-165" id="menu-item-165"><a href="https://serenesforest.net/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183" id="menu-item-183"><a href="https://forums.serenesforest.net/">Forums</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23627" id="menu-item-23627"><a href="https://serenesforest.net/wiki/index.php/Main_Page">Wiki</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-184" id="menu-item-184"><a href="#">Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-185" id="menu-item-185"><a href="#">NES</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166" id="menu-item-166"><a href="https://serenesforest.net/dark-dragon-and-sword-of-light/">Dark Dragon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167" id="menu-item-167"><a href="https://serenesforest.net/gaiden/">Gaiden</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-186" id="menu-item-186"><a href="#">SNES</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168" id="menu-item-168"><a href="https://serenesforest.net/mystery-of-the-emblem/">Mystery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="https://serenesforest.net/genealogy-of-the-holy-war/">Holy War</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170" id="menu-item-170"><a href="https://serenesforest.net/thracia-776/">Thracia 776</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171" id="menu-item-171"><a href="https://serenesforest.net/akaneia-saga/">Akaneia Saga</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-187" id="menu-item-187"><a href="#">GBA</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172" id="menu-item-172"><a href="https://serenesforest.net/binding-blade/">Binding Blade</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173" id="menu-item-173"><a href="https://serenesforest.net/blazing-sword/">Blazing Sword</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174" id="menu-item-174"><a href="https://serenesforest.net/the-sacred-stones/">The Sacred Stones</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34463" id="menu-item-34463"><a href="#">GameCube/Wii</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175" id="menu-item-175"><a href="https://serenesforest.net/path-of-radiance/">Path of Radiance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176" id="menu-item-176"><a href="https://serenesforest.net/radiant-dawn/">Radiant Dawn</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34464" id="menu-item-34464"><a href="#">Nintendo DS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177" id="menu-item-177"><a href="https://serenesforest.net/shadow-dragon/">Shadow Dragon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178" id="menu-item-178"><a href="https://serenesforest.net/light-and-shadow/">New Mystery</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42157" id="menu-item-42157"><a href="#">Nintendo 3DS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179" id="menu-item-179"><a href="https://serenesforest.net/awakening/">Awakening</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25267" id="menu-item-25267"><a href="https://serenesforest.net/fire-emblem-fates/">Fire Emblem Fates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34455" id="menu-item-34455"><a href="https://serenesforest.net/fire-emblem-echoes-shadows-valentia/" title="Fire Emblem Echoes: Shadows of Valentia">Fire Emblem Echoes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-35053" id="menu-item-35053"><a href="https://serenesforest.net/three-houses/">Three Houses</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-188" id="menu-item-188"><a href="#">Spinoff Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32642" id="menu-item-32642"><a href="https://serenesforest.net/wiki/index.php/Tokyo_Mirage_Sessions_%E2%99%AFFE">Tokyo Mirage Sessions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34466" id="menu-item-34466"><a href="https://serenesforest.net/fire-emblem-heroes/">Fire Emblem Heroes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42155" id="menu-item-42155"><a href="https://serenesforest.net/wiki/index.php/Fire_Emblem_Warriors">Fire Emblem Warriors</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42156" id="menu-item-42156"><a href="#">Related Games</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180" id="menu-item-180"><a href="https://serenesforest.net/tearring-saga/">TearRing Saga</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181" id="menu-item-181"><a href="https://serenesforest.net/berwick-saga/">Berwick Saga</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58145" id="menu-item-58145"><a href="https://serenesforest.net/vestaria-saga-i/" title="Vestaria Saga I: War of the Scions">Vestaria Saga I</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9755" id="menu-item-9755"><a href="#">Media</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9756" id="menu-item-9756"><a href="https://serenesforest.net/gallery/">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14584" id="menu-item-14584"><a href="https://serenesforest.net/music/">Music</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31549" id="menu-item-31549"><a href="https://serenesforest.net/videos/">Videos</a></li>
+</ul>
+</li>
+</ul> </div>
+</div>
+<div class="clear"></div>
+<div id="custom_header">
+</div>
+<div id="headerad" style="text-align: center;">
+<div style="display: table;margin: 0 auto;">
+<div id="serenesforest_H_D_1"></div>
+</div>
+</div>
+<div id="wrap">
+<div class="fullwidth" id="content">
+<div class="post-56202 page type-page status-publish hentry" id="page-56202">
+<h2 class="page-title">Tea Party</h2>
+<br/>
+<div class="breadcrumbs">
+<!-- Breadcrumb NavXT 6.5.0 -->
+<a href="https://serenesforest.net" title="Go to Serenes Forest.">Serenes Forest</a> &gt; <a href="https://serenesforest.net/three-houses/" title="Go to Three Houses.">Three Houses</a> &gt; <a href="https://serenesforest.net/three-houses/monastery/" title="Go to Monastery.">Monastery</a> &gt; Tea Party				</div>
+<br/>
+<div class="entry">
+<p>This is a mini-game available after clearing the “Tea for Two” quest from Chapter 4 (7th month).</p>
+<p>While exploring the monastery, when you speak to characters from your own house or other characters with a C or higher support rank, there will be an option to invite them for a tea party. Inviting a character costs 1 activity point. Also, when the calendar reaches a character’s birthday, you can host a tea party without spending activity points.</p>
+<h4>Characters You Can Invite</h4>
+<p><strong>Note</strong>: Similar to the Owl Feather, every character likes the Hresvelg Blend and Leicester Cortania.</p>
+<table>
+<tbody>
+<tr>
+<th width="25%">Black Eagles</th>
+<th width="25%">Blue Lions</th>
+<th width="25%">Golden Deer</th>
+<th width="25%">Church of Seiros</th>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/edelgard/">Edelgard<br>
+</br></a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dimitri/">Dimitri<br>
+</br></a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/claude/">Claude<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/seteth/">Seteth<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hubert/">Hubert<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dedue/">Dedue<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/lorenz/">Lorenz<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/flayn/">Flayn<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ferdinand/">Ferdinand<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/felix/">Felix<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/raphael/">Raphael<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hanneman/">Hanneman<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/linhardt/">Linhardt<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ashe/">Ashe<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ignatz/">Ignatz<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/manuela/">Manuela<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/caspar/">Caspar<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/sylvain/">Sylvain<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/lysithea/">Lysithea<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/gilbert/">Gilbert<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/bernadetta/">Bernadetta<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/mercedes/">Mercedes<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/marianne/">Marianne<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/alois/">Alois<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/dorothea/">Dorothea<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/annette/">Annette<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hilda/">Hilda<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/catherine/">Catherine<br/>
+</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/petra/">Petra<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/ingrid/">Ingrid<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/leonie/">Leonie<br/>
+</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/shamir/">Shamir<br/>
+</a></td>
+</tr>
+<tr>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/cyril/">Cyril<br/>
+</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th colspan="4">DLC Exclusive</th>
+</tr>
+<tr>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/jeritza/">Jeritza</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/anna/">Anna</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/yuri/">Yuri</a></td>
+<td width="25%"><a href="https://serenesforest.net/three-houses/monastery/tea-party/balthus/">Balthus</a></td>
+</tr>
+<tr>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/constance/">Constance</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/hapi/">Hapi</a></td>
+<td><a href="https://serenesforest.net/three-houses/monastery/tea-party/rhea/">Rhea</a></td>
+<td>–</td>
+</tr>
+</tbody>
+</table>
+<h4>Tea Party Etiquette</h4>
+<p>If the character accepts the invitation, the tea party will begin immediately. First, you must select a type of tea. You can find tea as random items throughout the monastery or purchase them from the Eastern Merchant in the market (when available). Any tea will suffice, but if you pick a tea they like, it’ll make things easier.</p>
+<p>Next, you’ll have three chances to “talk” to your partner. Each time you talk, there will be three topics to choose from and a 15 second timer. At least one of these topics will be one they’re interested in. If you choose the correct topic, you will gain support points. Meanwhile, if you choose wrong, you won’t gain (or lose) anything.</p>
+<p>Furthermore, if you choose correctly three times, the character will make one final comment. You’ll have 15 seconds again to pick one of three responses. Choose the correct response and you will proceed to “extra time”. Otherwise, the tea party will come to an end.</p>
+<p>If you offered a tea that the character liked, the conditions are a bit more relaxed:</p>
+<ol>
+<li>You only need to choose <strong>two</strong> correct topics to reach the final comment.</li>
+<li>If you picked all of the correct topics, you are allowed to fail the final comment.</li>
+</ol>
+<h4>Extra Time and Afterwards</h4>
+<p>During “extra time” you can observe your partner up close. They have two different responses (doubled if you share an A support) depending on if you zoom in near their head or near their, er, body. You can also give them a gift, which works the same as normal.</p>
+<p>Once you’re finished, you’ll gain increased support points. You may also gain +1 Charm for the protagonist and/or your partner.</p>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div id="footerad" style="text-align: center;">
+</div>
+</div><!-- end #wrap -->
+</div><!-- end #wrapper -->
+<div id="foot_wrap">
+<div id="footer">
+<p style="text-align: center">Content not otherwise credited copyright 2005-2020 to Aveyn Knight/VincentASM.
+Design is copyright 2013-2020 Joshua ‘Jyosua’ Moore.</p> <div class="credit_link"></div>
+</div>
+<div class="clear"></div>
+</div>
+<!-- ngg_resource_manager_marker --><script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"serenesforest"};
+/* ]]> */
+</script>
+<script src="https://serenesforest.net/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17" type="text/javascript"></script>
+<script src="https://serenesforest.net/wp-includes/js/wp-embed.min.js?ver=5.4.2" type="text/javascript"></script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202034.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'72046347',post:'56202',tz:'-7',srv:'serenesforest.net'} ]);
+	_stq.push([ 'clickTrackerInit', '72046347', '56202' ]);
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using apc (SSL caching disabled) 
+Database Caching using apc
+
+Served from: serenesforest.net @ 2020-08-18 11:45:07 by W3 Total Cache
+-->

@@ -1,0 +1,6 @@
+values = input("enter a set of numbers serperated by commas : ")
+print(values)
+list = list(values.split(","))
+print("list : " + str(list))
+tuple = tuple(list)
+print("tuple : " + str(tuple))
